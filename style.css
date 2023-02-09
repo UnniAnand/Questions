@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color:aliceblue;
+}
+button{
+    width:50%;
+    font-size:25px;
+}
+h1{
+    font-size: 30px;
+    color:blue;
+}
+
